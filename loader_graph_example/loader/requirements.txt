@@ -1,0 +1,4 @@
+modules:
+    -pdf2image
+    -nbformat
+    
